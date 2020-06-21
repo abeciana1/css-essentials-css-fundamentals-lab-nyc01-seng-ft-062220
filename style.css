@@ -11,6 +11,7 @@ h1 {
 
 #featured-property {
   text-align: center
+  width: 800px
 }
 
 nav {
@@ -19,5 +20,5 @@ nav {
 
 #details {
   background-color: red;
-  
+  float: left
 }
