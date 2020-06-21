@@ -18,7 +18,7 @@ nav {
   text-align: center
 }
 
-#details {
+#details > div {
   background-color: red;
-  display: inline;
+  float: left;
 }
