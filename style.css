@@ -20,5 +20,6 @@ nav {
 
 #details {
   background-color: red;
-  display: 
+  display: inline;
+  float: left;
 }
